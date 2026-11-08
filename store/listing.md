@@ -28,7 +28,7 @@ edge theme
 grey black white
 
 ## Support contact
-[YOUR SUPPORT EMAIL OR SUPPORT PAGE URL]
+https://github.com/DYouAn/grey-black-white/issues
 
 ## Website
 Optional. Leave blank or use a page about the theme.
