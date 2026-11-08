@@ -1,0 +1,93 @@
+{
+  "manifest_version": 3,
+  "name": "Grey Black White",
+  "version": "2.3.0",
+  "description": "A minimal light Edge theme with a pure black title bar, #333333 toolbar, and a custom new-tab image.",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [
+        0,
+        0,
+        0
+      ],
+      "frame_inactive": [
+        0,
+        0,
+        0
+      ],
+      "frame_incognito": [
+        0,
+        0,
+        0
+      ],
+      "frame_incognito_inactive": [
+        0,
+        0,
+        0
+      ],
+      "button_background": [
+        0,
+        0,
+        0
+      ],
+      "control_background": [
+        0,
+        0,
+        0
+      ],
+      "toolbar": [
+        51,
+        51,
+        51
+      ],
+      "tab_text": [
+        255,
+        255,
+        255
+      ],
+      "tab_background_text": [
+        255,
+        255,
+        255
+      ],
+      "tab_background_text_inactive": [
+        210,
+        210,
+        210
+      ],
+      "bookmark_text": [
+        255,
+        255,
+        255
+      ],
+      "ntp_background": [
+        10,
+        12,
+        20
+      ],
+      "ntp_text": [
+        255,
+        255,
+        255
+      ],
+      "ntp_link": [
+        120,
+        180,
+        255
+      ]
+    },
+    "images": {
+      "theme_ntp_background": "images/grey-black-white-ntp.png"
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
