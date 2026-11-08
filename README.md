@@ -24,6 +24,11 @@ A minimal Microsoft Edge theme with a **pure black title bar and window frame**,
 | Page text | `#1A1A1A` |
 | New-tab background | custom image |
 
+## Download
+
+- GitHub release: https://github.com/DYouAn/grey-black-white/releases/latest
+- Repository: https://github.com/DYouAn/grey-black-white
+
 ## Install (developer / unpacked)
 
 1. Download `dist/Grey-Black-White-v2.3.0.zip` (or use the `theme/` folder directly).
@@ -48,7 +53,9 @@ Edge's built-in “Customize Edge → Image themes” can apply a colour theme s
 
 This theme only supplies static colours and one image to Edge. It contains no scripts, makes no network requests, requests no permissions, and does not collect or share data.
 
-See [privacy-policy.md](privacy-policy.md) or the HTML version at [privacy-policy.html](privacy-policy.html).
+See [privacy-policy.md](privacy-policy.md) or the hosted HTML version:
+
+https://dyouan.github.io/grey-black-white/privacy-policy.html
 
 ## Repository layout
 

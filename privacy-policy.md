@@ -10,4 +10,4 @@ Because the extension collects no data, there is no data to access, correct, del
 
 If you have questions about this policy, contact:
 
-**[YOUR SUPPORT EMAIL]**
+https://github.com/DYouAn/grey-black-white/issues
