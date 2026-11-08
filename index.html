@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Grey Black White · Microsoft Edge theme</title>
+<style>
+  :root { --ink:#16181d; --muted:#626873; --line:#e4e6ea; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:#f4f5f7; color:var(--ink); font:16px/1.65 "Segoe UI", "Microsoft YaHei UI", sans-serif; }
+  main { max-width:1040px; margin:0 auto; padding:56px 24px 80px; }
+  .badge { display:inline-flex; gap:8px; align-items:center; border:1px solid var(--line); background:#fff; border-radius:999px; padding:6px 12px; font-size:12px; color:var(--muted); letter-spacing:.08em; }
+  h1 { font-size:44px; line-height:1.08; letter-spacing:-.035em; margin:22px 0 10px; }
+  .lead { color:var(--muted); max-width:650px; margin:0 0 26px; }
+  .actions { display:flex; flex-wrap:wrap; gap:12px; margin:26px 0 36px; }
+  .btn { display:inline-block; padding:11px 18px; border-radius:9px; font-size:14px; font-weight:600; text-decoration:none; border:1px solid #000; background:#000; color:#fff; }
+  .btn.secondary { background:#fff; color:#222; border-color:var(--line); }
+  .preview { width:100%; border-radius:14px; box-shadow:0 18px 50px rgba(20,23,28,.18); display:block; }
+  .grid { display:grid; grid-template-columns:repeat(3,1fr); gap:14px; margin-top:28px; }
+  .card { background:#fff; border:1px solid var(--line); border-radius:12px; padding:18px; }
+  .card b { display:block; margin-bottom:4px; font-size:14px; }
+  .card span { color:var(--muted); font-size:13px; }
+  footer { color:var(--muted); font-size:13px; border-top:1px solid var(--line); margin-top:40px; padding-top:18px; }
+  a { color:inherit; }
+</style>
+</head>
+<body>
+<main>
+  <span class="badge">EDGE THEME · v2.3.0</span>
+  <h1>Grey Black White</h1>
+  <p class="lead">A minimal Microsoft Edge theme: a pure black title bar and window frame, a #333333 toolbar, and a light page with a custom new-tab image.</p>
+  <div class="actions">
+    <a class="btn" href="https://github.com/DYouAn/grey-black-white/releases/latest">Download for Edge</a>
+    <a class="btn secondary" href="https://github.com/DYouAn/grey-black-white">View on GitHub</a>
+  </div>
+  <img class="preview" src="docs/preview-background.jpg" alt="Grey Black White new-tab background preview">
+  <div class="grid">
+    <div class="card"><b>Pure black frame</b><span>Title bar, window frame and window controls in #000000.</span></div>
+    <div class="card"><b>#333333 toolbar</b><span>Address bar and bookmarks bar, with white icons and text.</span></div>
+    <div class="card"><b>Light page</b><span>White content surface with dark, readable text.</span></div>
+  </div>
+  <footer>
+    <a href="https://github.com/DYouAn/grey-black-white/releases/tag/v2.3.0">Release v2.3.0</a> ·
+    <a href="privacy-policy.html">Privacy policy</a> ·
+    <a href="https://github.com/DYouAn/grey-black-white/issues">Support</a><br>
+    Theme-only: no scripts, no permissions, no data collection. Artwork supplied by the project owner; see ASSETS.md.
+  </footer>
+</main>
+</body>
+</html>
