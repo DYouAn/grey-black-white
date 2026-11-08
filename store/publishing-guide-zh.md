@@ -5,7 +5,7 @@
 ## 已准备好的文件
 
 ```
-Grey-Black-White-v2.3.0.zip     ← 在 Partner Center 上传的商店包（manifest.json 在 zip 根目录）
+Grey-Black-White-v2.2.0.zip     ← 在 Partner Center 上传的商店包（manifest.json 在 zip 根目录）
 logo-300.png                     ← Store logo（300×300）
 screenshots/01-main-1280x800.png ← 截图 1（1280×800）
 screenshots/02-palette-1280x800.png ← 截图 2（1280×800）
@@ -24,7 +24,7 @@ privacy-policy.md                ← 隐私政策 Markdown
 ## 2. 创建扩展并上传商店包
 
 1. 在 Partner Center 的 **Microsoft Edge** 工作区，点击 **Create new extension**。
-2. 上传 `Grey-Black-White-v2.3.0.zip`。
+2. 上传 `Grey-Black-White-v2.2.0.zip`。
    - 这是主题专用包，里面只有 `manifest.json` 和图标；没有脚本、没有权限。
 3. 等待包校验通过，检查 Extension overview；扩展名称应为 **Grey Black White**，版本 **2.2.0**。
 

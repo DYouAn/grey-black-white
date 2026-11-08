@@ -4,14 +4,14 @@
 Grey Black White
 
 ## Short description (from package manifest, 96 characters)
-A minimal Edge theme with a pure black title bar, #333333 toolbar, and a custom new-tab image.
+A minimal Edge theme with a pure black title bar, a #333333 toolbar, and a light page.
 
 ## Full description (paste into Partner Center; 250–10,000 characters)
-Grey Black White is a minimal Edge theme for Microsoft Edge. It frames bright pages with a pure black title bar and window edge, then softens the browser interface with a #333333 toolbar, address bar, and bookmarks bar. The theme includes a custom 1920×1080 new-tab image, paired with a dark, readable overlay colour.
+Grey Black White is a minimal Edge theme for Microsoft Edge. It frames bright pages with a pure black title bar and window edge, then softens the browser interface with a #333333 toolbar, address bar, and bookmarks bar. The page area stays light with dark text, while the title bar and window frame are pure black and the toolbar is #333333.
 
 The result is a calm, monochrome browser: black at the edges, graphite around the controls, and white where the content lives. It is designed for people who like a dark browser frame but prefer light web pages.
 
-This is a theme-only add-on. It has no scripts, no content scripts, no network requests, and requests no permissions. It does not collect, store, or transmit any data. It changes only the browser interface colors and includes a static new-tab background image.
+This is a theme-only add-on. It has no scripts, no content scripts, no network requests, and requests no permissions. It does not collect, store, or transmit any data. It changes only the browser interface colors.
 
 After installing, the theme is applied immediately. To return to the default Edge appearance, open Settings > Appearance > Theme and choose Default.
 
@@ -50,4 +50,4 @@ To test, install the package and open a new browser window. The title bar and wi
 - Logo (300×300): logo-300.png
 - Screenshot 1 (1280×800): screenshots/01-main-1280x800.png
 - Screenshot 2 (1280×800): screenshots/02-palette-1280x800.png
-- Store package: Grey-Black-White-v2.3.0.zip
+- Store package: Grey-Black-White-v2.2.0.zip

@@ -1,15 +1,11 @@
 # Changelog
 
-## v2.3.0 — 2026-11-09
+## v2.2.0 — 2026-11-09
 
-- Added a custom 1920×1080 new-tab background image (`theme/images/grey-black-white-ntp.png`).
-- Kept the pure black title bar/window frame and #333333 toolbar.
-- Added GitHub-ready documentation, screenshots, store listing copy, and privacy policy.
-
-## v2.2.0
-
-- Toolbar/address bar/bookmarks bar changed to #333333.
 - Pure black title bar, window frame, and window controls.
+- #333333 toolbar, address bar, and bookmarks bar.
+- Light page surface with dark text.
+- Theme-only package: no scripts, permissions, or data collection.
 
 ## v2.1.0
 
